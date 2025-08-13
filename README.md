@@ -44,9 +44,11 @@ nano index.html
 
 ### 1.2 Criar servidor no discord:
 -Acesse o Discord e crie um servidor:
-![print criar servidor](imagens/cria-servidor.jpg)
+
+![print criar servidor](imagens/criar-servidor.jpg)
 
 -Editar canal de texto:
+
 ![print configuração discord](imagens/configuracao-do-canal.jpg)
 
 -Ir em interacao e webhook:
@@ -91,7 +93,7 @@ Formato do cron minuto hora dia_mes mes dia_semana assim: */1 * * * * diz pra ex
 
 ```2>&1 ``` manda os erros para o mesmo arquivo.
 
-![print crontab](crontab.png)
+![print crontab](imagens/crontab.png)
 
 ### 4. Sucesso:
 Parabéns! Se voce chegou ate aqui, tudo esta feito correto e caso aja erro, reveja o passo a passo. pra testar vc tera que executar o comando: systemctl stop nginx.
