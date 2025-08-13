@@ -53,7 +53,7 @@ nano index.html
 ![print aba de interação](imagens/interacao.jpg)
 
 -Criar um novo webhook, e copiar a URL:
-![print criação de webhook](imagens/cria-webhook.jpg)
+![print criação de webhook](imagens/criar-webhook.jpg)
 
 ### 2. Script de Monitoramento:
 -O script de monitoramento pode ser criada na pasta de sua preferencia:
@@ -91,7 +91,7 @@ Formato do cron minuto hora dia_mes mes dia_semana assim: */1 * * * * diz pra ex
 
 ```2>&1 ``` manda os erros para o mesmo arquivo.
 
-![print configuração netplan](crontab.png)
+![print configuração netplan](crontab.jpg)
 
 ### 4. Sucesso:
 Parabéns! Se voce chegou ate aqui, tudo esta feito correto e caso aja erro, reveja o passo a passo. pra testar vc tera que executar o comando: systemctl stop nginx.
