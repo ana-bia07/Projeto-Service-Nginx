@@ -44,16 +44,16 @@ nano index.html
 
 ### 1.2 Criar servidor no discord:
 -Acesse o Discord e crie um servidor:
-![print criar servidor](imagens/cria-servidor.png)
+![print criar servidor](imagens/cria-servidor.jpg)
 
 -Editar canal de texto:
-![print configuração discord](imagens/configuracao-do-canal.png)
+![print configuração discord](imagens/configuracao-do-canal.jpg)
 
 -Ir em interacao e webhook:
-![print aba de interação](imagens/interacao.png)
+![print aba de interação](imagens/interacao.jpg)
 
 -Criar um novo webhook, e copiar a URL:
-![print criação de webhook](imagens/cria-webhook.png)
+![print criação de webhook](imagens/cria-webhook.jpg)
 
 ### 2. Script de Monitoramento:
 -O script de monitoramento pode ser criada na pasta de sua preferencia:
