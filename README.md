@@ -41,6 +41,7 @@ sudo systemctl status nginx   #para verficar o status
 cd /var/www/html/ 
 nano index.html      #comando pra criar o arquivo e inserir o html
 ```
+[📄 Clique aqui para utilizar o meu html, ele contem algumas curiosidade sobre esse projeto](https://github.com/ana-bia07/Projeto-Service-Nginx/blob/master/index.html)
 
 - Você pode acessar o site pelo eu navegar pelo http://numero_do_IP
 
@@ -113,5 +114,6 @@ Formato do cron é: minuto hora dia_mes mes dia_semana, assim, */1 * * * * diz p
 
 
 ### 4. Sucesso:
-Parabéns! Se voce chegou ate aqui, tudo esta feito correto e caso aja erro, reveja o passo a passo. Pra testar execute o comando: systemctl stop nginx.
+Parabéns! Se voce chegou ate aqui, tudo esta feito correto e caso aja erro, reveja o passo a passo. 
+Obrigado por ver e lembre-se que para simular uma falha no servidor use o comando: ```systemctl stop nginx```
 
