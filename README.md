@@ -83,8 +83,11 @@ Você deve receber uma notificação como essa:
 ![print notificação](imagens/notificacao.png)
 
 E conferir os seus logs seguindo o caminho que colocamos em $dir:
+
 ![print monitor-log](imagens/cat-monitor.png)
+
 ![print monitor-log2](imagens/log-monitor.png)
+
 ![print status-log](imagens/status-log.png)
 
 ### 3. Verificação por Minuto:
