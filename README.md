@@ -91,7 +91,7 @@ Formato do cron minuto hora dia_mes mes dia_semana assim: */1 * * * * diz pra ex
 
 ```2>&1 ``` manda os erros para o mesmo arquivo.
 
-![print configuração netplan](crontab.jpg)
+![print crontab](crontab.png)
 
 ### 4. Sucesso:
 Parabéns! Se voce chegou ate aqui, tudo esta feito correto e caso aja erro, reveja o passo a passo. pra testar vc tera que executar o comando: systemctl stop nginx.
