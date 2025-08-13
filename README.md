@@ -17,7 +17,7 @@ Subir um site e configurar o monitoramento dele, recebendo alertas no **Discord*
 - Instalar o **Ubuntu Server**.
 - Configurar a rede em **modo Bridge** para acesso local.
 - Configuração utilizada:  
-![print configuração netplan](netplan.png)
+![print configuração netplan](imagens/netplan.png)
 
 Para alterar manualmente:
 ```bash
@@ -30,7 +30,7 @@ sudo nano nome_do_arquivo.yaml
 sudo apt-get install nginx
 ```
 - Verificar status do nginx com o seguinte codigo, ele deve aparecer assim:
-![print status nginx](status-nginx.png)
+![print status nginx](imagens/status-nginx.png)
 ```bash
 sudo systemctl star nginx   #para inicar o nginx (codigo)
 sudo systemctl status nginx   #para verficar o status 
@@ -44,16 +44,16 @@ nano index.html
 
 ### 1.2 Criar servidor no discord:
 -Acesse o Discord e crie um servidor:
-![print criar servidor](cria-servidor.png)
+![print criar servidor](imagens/cria-servidor.png)
 
 -Editar canal de texto:
-![print configuração discord](configuracao-do-canal.png)
+![print configuração discord](imagens/configuracao-do-canal.png)
 
 -Ir em interacao e webhook:
-![print aba de interação](interacao.png)
+![print aba de interação](imagens/interacao.png)
 
 -Criar um novo webhook, e copiar a URL:
-![print criação de webhook](cria-webhook.png)
+![print criação de webhook](imagens/cria-webhook.png)
 
 ### 2. Script de Monitoramento:
 -O script de monitoramento pode ser criada na pasta de sua preferencia:
