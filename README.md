@@ -1,6 +1,6 @@
 # Projeto-Service-Nginx
 
-# 📌 Configuração de Servidor Web com Monitoramento Automático
+##📌 Configuração de Servidor Web com Monitoramento Automático
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
